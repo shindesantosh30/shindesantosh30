@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shinde santosh
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Django framework
+- 📫 How to reach me - instagramID - shinde_santosh_
